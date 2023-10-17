@@ -1,0 +1,28 @@
+.nav{
+    margin: auto;
+}
+body{
+    background-color: rgb(157, 222, 222);
+
+}
+img{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+}
+h1{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(223, 206, 238);
+    color: rgb(180, 76, 97);
+}
+h2{
+    color: rgb(233, 244, 255);
+}
+#life{
+    width: 300px;
+    height: auto;
+}
+p{
+    color: aliceblue;
+}
